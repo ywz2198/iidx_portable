@@ -2,6 +2,7 @@ iidx_portable
 ![](https://github.com/ywz2198/iidx_portable/blob/master/5041.jpg)
 ===
 思路来源于omgdanieltam/sdvx_leonardo,mon/PocketVoltex,某个名字的up，mrguai/keyboard(立创eda)
+
 尺寸为300*120，盘距保留到50，达到60%键盘尺寸（依然装不进口袋），转盘设计欠佳
 
 材料清单：
