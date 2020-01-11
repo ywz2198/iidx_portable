@@ -5,7 +5,7 @@ iidx_portable
 
 材料清单：
 * 定制亚克力
-* PCB （我有多的）
+* PCB
 * arduino micro pro（leonardo）
 * 母母杜邦线（20cm）
 * m3*8尼龙柱,m3*8螺丝,m3螺母
